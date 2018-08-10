@@ -1,6 +1,15 @@
 .navbar a {
     color: white;
 }
-.bg-danger{
+
+#header {
     background-color: #dc8686 !important;
+}
+
+#main-text {
+    color: #b1313d !important;
+}
+
+#btn {
+    background-color: #efeeee;
 }
